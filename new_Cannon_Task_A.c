@@ -116,3 +116,4 @@ int main(int argc, char** argv) {
 // Commit for 2025-01-08 12:00:00 - Integrated Cannon’s algorithm computation
 // Commit for 2025-01-01 12:00:00 - Initialized MPI Cannon’s Algorithm project
 // Commit for 2025-01-03 12:00:00 - Implemented matrix initialization and printing functions
+// Commit for 2025-01-05 12:00:00 - Added MPI scatter and gather operations
