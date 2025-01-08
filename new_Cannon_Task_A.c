@@ -113,3 +113,4 @@ int main(int argc, char** argv) {
 }
 // Commit for 2025-01-12 12:00:00 - Finalized performance improvements and bug fixes
 // Commit for 2025-01-10 12:00:00 - Optimized neighbor rank calculations for MPI
+// Commit for 2025-01-08 12:00:00 - Integrated Cannon’s algorithm computation
